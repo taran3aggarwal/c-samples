@@ -3,6 +3,7 @@
 *.ko
 *.obj
 *.elf
+*.tds
 
 # Precompiled Headers
 *.gch
@@ -31,3 +32,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+_Bhanu
+_Books
+_Tools
